@@ -6,7 +6,7 @@ The format is based on the principle of maintaining a clear and chronological hi
 
 ---
 
-## [Unreleased]
+## Unreleased
 
 ### Added
 
@@ -29,7 +29,7 @@ The format is based on the principle of maintaining a clear and chronological hi
 
 ---
 
-## [Version 0.1.0] - Repository Foundation
+## Version 0.1.0 - Repository Foundation
 
 ### Added
 
